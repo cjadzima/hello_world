@@ -1,1 +1,3 @@
+print("Hello Earth!")
+print()
 print("This is a Git repository on GitHub.")
