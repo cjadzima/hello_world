@@ -1,3 +1,5 @@
+print("Hello Earth!")
+print()
 print("This is a Git repository on GitHub.")
 
 def print_message(name='GitHub'):
